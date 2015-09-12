@@ -8,5 +8,6 @@ TODO
 3. Make matrix shifting smooth;
 4. Add score count;
 5. Add "Exit" button;
-6. Implement deadlock detection http://androidgamify.blogspot.com.ee/2013/11/match-3-game-algorithm-part-3-how-to.html ;
-7. Unit tests.
+6. Comment code;
+7. Implement deadlock detection http://androidgamify.blogspot.com.ee/2013/11/match-3-game-algorithm-part-3-how-to.html ;
+8. Unit tests.
