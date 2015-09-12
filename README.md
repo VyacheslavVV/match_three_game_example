@@ -1,6 +1,6 @@
 A very simple example of match-three game for Android 2.3.3 with LibGDX.
 
-Thanks http://androidgamify.blogspot.com.ee/2013/10/match-3-game-algorithm-part-1-game.html for game algorithm.
+Thanks to http://androidgamify.blogspot.com.ee/2013/10/match-3-game-algorithm-part-1-game.html for game algorithm.
 
 TODO  
 1. Move tile smoothly during tile swap;  
